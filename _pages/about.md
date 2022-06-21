@@ -6,7 +6,7 @@ subtitle: PhD Student at Brown University
 
 profile:
   align: right
-  image: sean_brownu_headshot.jpg
+  image: sean_brownu_headshot_resize.jpg
   
 
 news: false  # includes a list of news items
