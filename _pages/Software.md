@@ -3,7 +3,7 @@ layout: page
 permalink: /software/
 title: Software
 description: Software packages in Stata or otherwise.
-nav: false
+nav: true
 nav_order: 2
 ---
 
