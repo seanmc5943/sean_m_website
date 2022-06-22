@@ -1,11 +1,22 @@
 ---
 layout: page
 title: Saiz Maps
-description: a project with a background image
+description: Visualization of Saiz's Geographic Determinants of Housing Supply"
 img: assets/img/new_york.png
 importance: 1
 category: work
 ---
+
+An important paper in the housing supply literature is "The Geographic Determinants of Housing Supply" by Albert Saiz, which estimates the amount of area within 50km of major U.S. city centers that is undevelopable due to geographic features like ocean, wetlands, and mountainous terrain. For the purposes of the paper, land is considered undevelopable either because it is covered with water or has a slope of greater than 15 percent. He concludes that geography plays a large role in urban growth not only by directly reducing land availability, but also by increasing land values and incentivizing regulatory constraints on land use. 
+
+However, at least in the final published form of the paper, there are no maps of these cities. Below are maps of two major American cities I made from satellite data where white space is geographic area that is difficult or impossible to build on. Each map is the area within 30 miles of a city center and purple denotes census tracts with higher density of <a href="https://github.com/microsoft/USBuildingFootprints"> building footprints</a>.  Many will recognize that the left image is San Francisco, CA—but what about the city in the right image?
+
+<table><tr>
+        <td> <img src="assets/img/san_francisco.png" alt="san_francisco" width="325"/>  </td>
+        <td> <img src="assets/img/atlanta.png" alt="atlanta" width="325"/> </td>
+    <tr/></table>
+    
+<img src="assets/img/colorscale_tracts.png" alt="colorscale_tracts" width="275"/> 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
