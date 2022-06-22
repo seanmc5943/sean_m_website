@@ -4,7 +4,7 @@ title: Saiz Maps
 description: Visualization of Saiz's Geographic Determinants of Housing Supply"
 img: /assets/img/new_york.png
 importance: 1
-category: work
+category: mapping
 ---
 
 An important paper in the housing supply literature is "The Geographic Determinants of Housing Supply" by Albert Saiz, which estimates the amount of area within 50km of major U.S. city centers that is undevelopable due to geographic features like ocean, wetlands, and mountainous terrain. For the purposes of the paper, land is considered undevelopable either because it is covered with water or has a slope of greater than 15 percent. He concludes that geography plays a large role in urban growth not only by directly reducing land availability, but also by increasing land values and incentivizing regulatory constraints on land use. 
