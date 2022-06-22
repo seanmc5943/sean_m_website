@@ -33,43 +33,43 @@ However, at least in the final published form of the paper, there are no maps of
 The map on the right is Atlanta, GA. It is clear that there is much less land available for development in San Francisco and these maps, even by themselves, strongly suggest that the lack of available land factors heavily into the high house prices in San Francisco today (see Saiz for a deeper discussion).
 Below are high resolution maps for the twelve largest U.S. metropolitan areas (ordered by population):
 
-New York City
+<div class="caption">New York City</div>
 {% include figure.html path="/assets/img/new_york.png" title="new_york" class="img-fluid" %} 
 
-Los Angeles
+<div class="caption">Los Angeles</div>
 {% include figure.html path="/assets/img/los_angeles.png" title="los_angeles" class="img-fluid" %} 
 
-Chicago
+<div class="caption">Chicago</div>
 {% include figure.html path="/assets/img/chicago.png" title="chicago" class="img-fluid" %} 
 
-Dallas
+<div class="caption">Dallas</div>
 {% include figure.html path="/assets/img/dallas.png" title="dallas" class="img-fluid" %} 
 
-Houston
+<div class="caption">Houston</div>
 {% include figure.html path="/assets/img/houston.png" title="houston" class="img-fluid" %} 
 
-Washington D.C.
+<div class="caption">Washington D.C.</div>
 {% include figure.html path="/assets/img/washington_DC.png" title="washington_DC" class="img-fluid" %} 
 
-Miami
+<div class="caption">Miami</div>
 {% include figure.html path="/assets/img/miami.png" title="miami" class="img-fluid" %} 
 
-Philadelphia
+<div class="caption">Philadelphia</div>
 {% include figure.html path="/assets/img/philadelphia.png" title="philadelphia" class="img-fluid" %} 
 
-Atlanta
+<div class="caption">Atlanta</div>
 {% include figure.html path="/assets/img/atlanta.png" title="atlanta" class="img-fluid" %} 
 
-Boston
+<div class="caption">Boston</div>
 {% include figure.html path="/assets/img/boston.png" title="boston" class="img-fluid" %} 
 
-Phoenix
+<div class="caption">Phoenix</div>
 {% include figure.html path="/assets/img/phoenix.png" title="phoenix" class="img-fluid" %} 
 
-San Francisco
+<div class="caption">San Francisco</div>
 {% include figure.html path="/assets/img/san_francisco.png" title="san_francisco" class="img-fluid" %} 
 
-####References & Mapbox Attribution
+#### References & Mapbox Attribution
 Saiz, Albert. *The Geographic Determinants of Housing Supply*. Quarterly Journal of Economics 125, 3 (2010) 
 
 Elevation data retrieved from the <a href='https://viewer.nationalmap.gov/basic/'>United States Geological Survey</a> \
