@@ -5,7 +5,7 @@ permalink: /blog_proj/
 description: Blog / Mini-projects.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [mapping, work, fun]
 horizontal: false
 ---
 
