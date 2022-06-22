@@ -16,7 +16,7 @@ Inflate is available on SSC. In Stata install by running:
 &emsp; &emsp; ```ssc install inflate```
 
 ##### **Example**
-###### The following code takes two monthly time series and puts them in real 2020$.
+###### The following code takes two monthly time series and puts them in real 2020 $.
 Load in the nominal M1 and M2 money stocks from FRED.
 \
 &emsp; &emsp; ```freduse M1SL M2SL```
