@@ -14,10 +14,10 @@ However, at least in the final published form of the paper, there are no maps of
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/san_francisco.png" title="San Francisco" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/san_francisco.png" title="San Francisco" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/atlanta.png" title="Atlanta" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/atlanta.png" title="Atlanta" class="img-fluid" %}
     </div>
 </div>
 
@@ -30,35 +30,44 @@ However, at least in the final published form of the paper, there are no maps of
 
 </div>
 
-<img src="/assets/img/colorscale_tracts-1400.webp" alt="colorscale_tracts" width="275"/> 
-
 The map on the right is Atlanta, GA. It is clear that there is much less land available for development in San Francisco and these maps, even by themselves, strongly suggest that the lack of available land factors heavily into the high house prices in San Francisco today (see Saiz for a deeper discussion).
 Below are high resolution maps for the twelve largest U.S. metropolitan areas (ordered by population):
 
-1. New York City
-![new_york.png](/assets/img/saiz_maps/new_york.png)
-2. Los Angeles
-![los_angeles.png](/assets/img/saiz_maps/los_angeles-1400.webp)
-3. Chicago
-![chicago.png](assets/img/saiz_maps/chicago-1400.webp)
-4. Dallas
-![dallas.png](assets/img/saiz_maps/dallas-1400.webp)
-5. Houston
-![houston.png](assets/img/saiz_maps/houston-1400.webp)
-6. Washington D.C.
-![washington_DC.png](assets/img/saiz_maps/washington_DC-1400.webp)
-7. Miami
-![miami.png](assets/img/saiz_maps/miami-1400.webp)
-8. Philadelphia
-![philadelphia.png](assets/img/saiz_maps/philadelphia-1400.webp)
-9. Atlanta
-![atlanta.png](assets/img/saiz_maps/atlanta-1400.webp)
-10. Boston
-![boston.png](assets/img/saiz_maps/boston-1400.webp)
-11. Phoenix
-![phoenix.png](assets/img/saiz_maps/phoenix-1400.webp)
-12. San Francisco
-![san_francisco.png](assets/img/saiz_maps/san_francisco-1400.webp)
+New York City
+{% include figure.html path="/assets/img/new_york.png" title="new_york" class="img-fluid" %} 
+
+Los Angeles
+{% include figure.html path="/assets/img/los_angeles.png" title="los_angeles" class="img-fluid" %} 
+
+Chicago
+{% include figure.html path="/assets/img/chicago.png" title="chicago" class="img-fluid" %} 
+
+Dallas
+{% include figure.html path="/assets/img/dallas.png" title="dallas" class="img-fluid" %} 
+
+Houston
+{% include figure.html path="/assets/img/houston.png" title="houston" class="img-fluid" %} 
+
+Washington D.C.
+{% include figure.html path="/assets/img/washington_DC.png" title="washington_DC" class="img-fluid" %} 
+
+Miami
+{% include figure.html path="/assets/img/miami.png" title="miami" class="img-fluid" %} 
+
+Philadelphia
+{% include figure.html path="/assets/img/philadelphia.png" title="philadelphia" class="img-fluid" %} 
+
+Atlanta
+{% include figure.html path="/assets/img/atlanta.png" title="atlanta" class="img-fluid" %} 
+
+Boston
+{% include figure.html path="/assets/img/boston.png" title="boston" class="img-fluid" %} 
+
+Phoenix
+{% include figure.html path="/assets/img/phoenix.png" title="phoenix" class="img-fluid" %} 
+
+San Francisco
+{% include figure.html path="/assets/img/san_francisco.png" title="san_francisco" class="img-fluid" %} 
 
 ####References & Mapbox Attribution
 Saiz, Albert. *The Geographic Determinants of Housing Supply*. Quarterly Journal of Economics 125, 3 (2010) 
