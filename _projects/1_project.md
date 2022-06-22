@@ -2,7 +2,7 @@
 layout: page
 title: Saiz Maps
 description: Visualization of Saiz's Geographic Determinants of Housing Supply"
-img: assets/img/new_york-1400.webp
+img: /assets/img/new_york-1400.webp
 importance: 1
 category: work
 ---
@@ -12,11 +12,11 @@ An important paper in the housing supply literature is "The Geographic Determina
 However, at least in the final published form of the paper, there are no maps of these cities. Below are maps of two major American cities I made from satellite data where white space is geographic area that is difficult or impossible to build on. Each map is the area within 30 miles of a city center and purple denotes census tracts with higher density of <a href="https://github.com/microsoft/USBuildingFootprints"> building footprints</a>.  Many will recognize that the left image is San Francisco, CA—but what about the city in the right image?
 
 <table><tr>
-        <td> <img src="assets/img/san_francisco-1400.webp" alt="san_francisco" width="325"/>  </td>
-        <td> <img src="assets/img/atlanta-1400.webp" alt="atlanta" width="325"/> </td>
+        <td> <img src="/assets/img/san_francisco-1400.webp" alt="san_francisco" width="325"/>  </td>
+        <td> <img src="/assets/img/atlanta-1400.webp" alt="atlanta" width="325"/> </td>
     <tr/></table>
     
-<img src="assets/img/colorscale_tracts-1400.webp" alt="colorscale_tracts" width="275"/> 
+<img src="/assets/img/colorscale_tracts-1400.webp" alt="colorscale_tracts" width="275"/> 
 
 The map on the right is Atlanta, GA. It is clear that there is much less land available for development in San Francisco and these maps, even by themselves, strongly suggest that the lack of available land factors heavily into the high house prices in San Francisco today (see Saiz for a deeper discussion).
 Below are high resolution maps for the twelve largest U.S. metropolitan areas (ordered by population):
