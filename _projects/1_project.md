@@ -18,74 +18,38 @@ However, at least in the final published form of the paper, there are no maps of
     
 <img src="assets/img/colorscale_tracts.png" alt="colorscale_tracts" width="275"/> 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The map on the right is Atlanta, GA. It is clear that there is much less land available for development in San Francisco and these maps, even by themselves, strongly suggest that the lack of available land factors heavily into the high house prices in San Francisco today (see Saiz for a deeper discussion).
+Below are high resolution maps for the twelve largest U.S. metropolitan areas (ordered by population):
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+1. New York City
+![new_york.png](assets/img/saiz_maps/new_york.png)
+2. Los Angeles
+![los_angeles.png](assets/img/saiz_maps/los_angeles.png)
+3. Chicago
+![chicago.png](assets/img/saiz_maps/chicago.png)
+4. Dallas
+![dallas.png](assets/img/saiz_maps/dallas.png)
+5. Houston
+![houston.png](assets/img/saiz_maps/houston.png)
+6. Washington D.C.
+![washington_DC.png](assets/img/saiz_maps/washington_DC.png)
+7. Miami
+![miami.png](assets/img/saiz_maps/miami.png)
+8. Philadelphia
+![philadelphia.png](assets/img/saiz_maps/philadelphia.png)
+9. Atlanta
+![atlanta.png](assets/img/saiz_maps/atlanta.png)
+10. Boston
+![boston.png](assets/img/saiz_maps/boston.png)
+11. Phoenix
+![phoenix.png](assets/img/saiz_maps/phoenix.png)
+12. San Francisco
+![san_francisco.png](assets/img/saiz_maps/san_francisco.png)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+####References & Mapbox Attribution
+Saiz, Albert. *The Geographic Determinants of Housing Supply*. Quarterly Journal of Economics 125, 3 (2010) 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Elevation data retrieved from the <a href='https://viewer.nationalmap.gov/basic/'>United States Geological Survey</a> \
+Water data retrieved from <a href='https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html'>U.S. Census TIGER/Line Shapefiles</a> 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong>
