@@ -7,6 +7,5 @@ nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+#### [Inflate.ado](https://ideas.repec.org/c/boc/bocode/s459037.html)  
+Inflate is a Stata program that inflates variables to real dollars using the U.S. Consumer Price Index (CPI). Useful for putting time series that vary across years, months, or quarters in real dollars, so you do not have to deal with merging in the CPI series yourself! 
