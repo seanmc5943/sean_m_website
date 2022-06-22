@@ -33,4 +33,5 @@ Inflate both series to 2020 $.
 \
 Now there are two new variables named M1SL_real and M2SL_real.
 \
+check
 <img src="/assets/img/inflate_screen_grab-1400.webp" alt="Inflate Screenshot" width="70%"/>
