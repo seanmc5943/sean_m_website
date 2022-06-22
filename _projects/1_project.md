@@ -2,7 +2,7 @@
 layout: page
 title: Saiz Maps
 description: Visualization of Saiz's Geographic Determinants of Housing Supply"
-img: assets/img/new_york.png
+img: assets/img/new_york-1400.webp
 importance: 1
 category: work
 ---
@@ -12,39 +12,39 @@ An important paper in the housing supply literature is "The Geographic Determina
 However, at least in the final published form of the paper, there are no maps of these cities. Below are maps of two major American cities I made from satellite data where white space is geographic area that is difficult or impossible to build on. Each map is the area within 30 miles of a city center and purple denotes census tracts with higher density of <a href="https://github.com/microsoft/USBuildingFootprints"> building footprints</a>.  Many will recognize that the left image is San Francisco, CA—but what about the city in the right image?
 
 <table><tr>
-        <td> <img src="assets/img/san_francisco.png" alt="san_francisco" width="325"/>  </td>
-        <td> <img src="assets/img/atlanta.png" alt="atlanta" width="325"/> </td>
+        <td> <img src="assets/img/san_francisco-1400.webp" alt="san_francisco" width="325"/>  </td>
+        <td> <img src="assets/img/atlanta-1400.webp" alt="atlanta" width="325"/> </td>
     <tr/></table>
     
-<img src="assets/img/colorscale_tracts.png" alt="colorscale_tracts" width="275"/> 
+<img src="assets/img/colorscale_tracts-1400.webp" alt="colorscale_tracts" width="275"/> 
 
 The map on the right is Atlanta, GA. It is clear that there is much less land available for development in San Francisco and these maps, even by themselves, strongly suggest that the lack of available land factors heavily into the high house prices in San Francisco today (see Saiz for a deeper discussion).
 Below are high resolution maps for the twelve largest U.S. metropolitan areas (ordered by population):
 
 1. New York City
-![new_york.png](assets/img/saiz_maps/new_york.png)
+![new_york.png](assets/img/saiz_maps/new_york-1400.webp)
 2. Los Angeles
-![los_angeles.png](assets/img/saiz_maps/los_angeles.png)
+![los_angeles.png](assets/img/saiz_maps/los_angeles-1400.webp)
 3. Chicago
-![chicago.png](assets/img/saiz_maps/chicago.png)
+![chicago.png](assets/img/saiz_maps/chicago-1400.webp)
 4. Dallas
-![dallas.png](assets/img/saiz_maps/dallas.png)
+![dallas.png](assets/img/saiz_maps/dallas-1400.webp)
 5. Houston
-![houston.png](assets/img/saiz_maps/houston.png)
+![houston.png](assets/img/saiz_maps/houston-1400.webp)
 6. Washington D.C.
-![washington_DC.png](assets/img/saiz_maps/washington_DC.png)
+![washington_DC.png](assets/img/saiz_maps/washington_DC-1400.webp)
 7. Miami
-![miami.png](assets/img/saiz_maps/miami.png)
+![miami.png](assets/img/saiz_maps/miami-1400.webp)
 8. Philadelphia
-![philadelphia.png](assets/img/saiz_maps/philadelphia.png)
+![philadelphia.png](assets/img/saiz_maps/philadelphia-1400.webp)
 9. Atlanta
-![atlanta.png](assets/img/saiz_maps/atlanta.png)
+![atlanta.png](assets/img/saiz_maps/atlanta-1400.webp)
 10. Boston
-![boston.png](assets/img/saiz_maps/boston.png)
+![boston.png](assets/img/saiz_maps/boston-1400.webp)
 11. Phoenix
-![phoenix.png](assets/img/saiz_maps/phoenix.png)
+![phoenix.png](assets/img/saiz_maps/phoenix-1400.webp)
 12. San Francisco
-![san_francisco.png](assets/img/saiz_maps/san_francisco.png)
+![san_francisco.png](assets/img/saiz_maps/san_francisco-1400.webp)
 
 ####References & Mapbox Attribution
 Saiz, Albert. *The Geographic Determinants of Housing Supply*. Quarterly Journal of Economics 125, 3 (2010) 
