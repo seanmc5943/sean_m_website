@@ -32,5 +32,5 @@ Inflate both series to 2020 $.
 &emsp; &emsp; ```inflate M1SL M2SL, year(year) month(month) end(2020)```
 \
 Now there are two new variables named M1SL_real and M2SL_real.
-![inflate screen shot](~/assets/img/inflate_screen_grab.jpg)
-
+\
+<img src="{{ site.url }}/{{site.baseurl}}/assets/img/inflate_screen_grab.jpg" alt="Inflate Screenshot" width="70%"/>
