@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog_proj/
-description: A growing collection of your cool projects.
+description: Blog / Mini-projects.
 nav: true
 nav_order: 4
 display_categories: [work, fun]

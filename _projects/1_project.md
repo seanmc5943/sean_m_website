@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Saiz Maps
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/new_york.png
 importance: 1
 category: work
 ---
