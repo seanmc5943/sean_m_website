@@ -24,7 +24,7 @@ Below are high resolution maps for the twelve largest U.S. metropolitan areas (o
 1. New York City
 ![new_york.png](/assets/img/saiz_maps/new_york.png)
 2. Los Angeles
-![los_angeles.png](assets/img/saiz_maps/los_angeles-1400.webp)
+![los_angeles.png](/assets/img/saiz_maps/los_angeles-1400.webp)
 3. Chicago
 ![chicago.png](assets/img/saiz_maps/chicago-1400.webp)
 4. Dallas
