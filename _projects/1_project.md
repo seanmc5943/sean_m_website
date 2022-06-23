@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saiz Maps
-description: Visualization of Saiz's Geographic Determinants of Housing Supply"
+description: Visualization of Saiz's Geographic Determinants of Housing Supply
 img: /assets/img/new_york.png
 importance: 1
 category: mapping
