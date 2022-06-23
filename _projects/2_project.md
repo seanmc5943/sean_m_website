@@ -7,8 +7,8 @@ importance: 2
 category: mapping
 ---
 
-I present a tract-level interactive map of San Francisco's mean house values in constant 2020 $ starting from the 1970 Decennial Census all the way through the 2014-2018 American Community Survey (ACS). Each tract's height and color signifies its mean house value.  The tracts' heights paint a stark picture of the absolute growth in real house prices and reveal significant heterogeneity across different neighborhoods in the Bay Area.  Clicking a tract displays the mean house value and mean contract rent in the selected Decennial Census year. <a href='https://seanmc5943.github.io/sfsj_3d.html'>Full Screen</a>
-<iframe src="https://seanmc5943.github.io/sfsj_3d.html"  style='display: block;' width='100%' height='600px' scrolling='no'></iframe>
+I present a tract-level interactive map of San Francisco's mean house values in constant 2020 $ starting from the 1970 Decennial Census all the way through the 2014-2018 American Community Survey (ACS). Each tract's height and color signifies its mean house value.  The tracts' heights paint a stark picture of the absolute growth in real house prices and reveal significant heterogeneity across different neighborhoods in the Bay Area.  Clicking a tract displays the mean house value and mean contract rent in the selected Decennial Census year. <a href='https://seanmc5943.github.io/sean_m_website/sfsj_3d.html'>Full Screen</a>
+<iframe src="https://seanmc5943.github.io/sean_m_website/sfsj_3d.html"  style='display: block;' width='100%' height='600px' scrolling='no'></iframe>
 <br>
 
 ### Notes on Data
