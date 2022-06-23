@@ -2,7 +2,7 @@
 layout: page
 title: San Francisco House Prices
 description: Interactive map of San Francisco housing prices back to the 1970s.
-img: assets/img/sf-sj-3d-resize.png
+img: /assets/img/sf-sj-3d-resize.png
 importance: 2
 category: mapping
 ---
