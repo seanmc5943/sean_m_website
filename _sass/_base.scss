@@ -113,6 +113,11 @@ blockquote {
     .address {
       p { display: block; }
     }
+
+    img {
+      max-width: 130%;
+      width: 130%;
+    }
   }
 }
 
