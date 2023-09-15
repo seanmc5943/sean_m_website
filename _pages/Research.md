@@ -14,11 +14,11 @@ nav_order: 2
 <div class="publications">
 {% bibliography -f papers -q @*[year={{y}}]* %}
 {%- for y in page.years %}
-  <h2 class="year">{}</h2>
+  <h2 class="year"></h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
 
-## Works in Progress
+%## Works in Progress
 
