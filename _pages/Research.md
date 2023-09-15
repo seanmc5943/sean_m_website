@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: current research projects
+description: 
 years: [2023]
 nav: true
 nav_order: 2
