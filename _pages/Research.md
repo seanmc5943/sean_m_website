@@ -8,9 +8,10 @@ nav: true
 nav_order: 2
 ---
 <!-- _pages/Research.md -->
-<div class="publications">
 
-Working Papers
+## Working Papers
+
+<div class="publications">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
