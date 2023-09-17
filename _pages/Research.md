@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description: 
 years: [2023]
-nav: false
+nav: true
 nav_order: 2
 ---
 <!-- _pages/Research.md -->
