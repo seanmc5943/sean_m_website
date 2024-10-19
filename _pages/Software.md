@@ -10,7 +10,7 @@ nav_order: 3
 #### [Inflate.ado](https://ideas.repec.org/c/boc/bocode/s459037.html)  
 Inflate is a Stata program that inflates variables to real dollars using the U.S. Consumer Price Index (CPI). Useful for putting time series that vary across years, quarters, or months in real dollars, so you do not have to deal with merging in the CPI series yourself!
 
-Note: The inflate command now requires an API key from FRED. This is because changes in FRED's data infrastructure forced the command to migrate from freduse to the built-in command import fred. A FRED API key may be obtained from [https://fred.stlouisfed.org/docs/api/api_key.html]
+Note: The inflate command now requires an API key from FRED. This is because changes in FRED's data infrastructure forced the command to migrate from freduse to the built-in command import fred. A FRED API key may be obtained from [https://fred.stlouisfed.org/docs/api/api_key.html](https://fred.stlouisfed.org/docs/api/api_key.html)
 
 ##### **Install**
 Inflate is available on SSC. In Stata install by running:
