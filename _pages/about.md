@@ -8,6 +8,9 @@ profile:
   align: right
   image: face_pic_2024.jpg
   
+scholar:
+  sort_by: year
+  order: descending
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
