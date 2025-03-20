@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Sean McCulloch. I'm a PhD student in economics at Brown University. My research interests are in urban economics, applied econometrics, and industrial organization.  
 
-Before starting my PhD, I worked as a RA for Joseph Gyourko and Todd Sinai at the Wharton School. test test2
+Before starting my PhD, I worked as a RA for Joseph Gyourko and Todd Sinai at the Wharton School.
 
-My CV is [/assets/pdf/cv.pdf](here).
+My CV is [here](https://www.seanmcculloch.com/assets/pdf/cv.pdf).
