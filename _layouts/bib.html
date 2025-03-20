@@ -44,6 +44,28 @@
               {%- else -%}
                 {{author.first}} {{author.last}}
               {%- endif -%}
+            {%- elsif forloop.length == 2 -%}
+              {%- unless forloop.last -%}
+                {% if author_is_self %}
+                  <em>{{author.first}} {{author.last}}</em>&nbsp;
+                {%- else -%}
+                  {% if coauthor_url -%}
+                    <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>&nbsp;
+                  {%- else -%}
+                    {{author.first}} {{author.last}}&nbsp;
+                  {%- endif -%}
+                {%- endif -%}
+              {%- else -%}
+                {% if author_is_self -%}
+                  and <em>{{author.first}} {{author.last}}</em>
+                {% else -%}
+                  {%- if coauthor_url -%}
+                    and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                  {% else -%}
+                    and {{author.first}} {{author.last}}
+                  {%- endif -%}
+                {%- endif -%}
+              {%- endunless -%}
             {%- else -%}
               {%- unless forloop.last -%}
                 {% if author_is_self %}
