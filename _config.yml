@@ -202,7 +202,7 @@ jekyll-archives:
 
 scholar:
 
-  last_name: McCulloch
+  last_name: E. McCulloch #I added middle initial to get rid of underline
   first_name: [Sean, S.]
 
   style: apa
