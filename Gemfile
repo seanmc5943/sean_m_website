@@ -1,5 +1,5 @@
 # Gemfile
-ruby '3.3.0'
+ruby '3.3.5'
 
 source 'https://rubygems.org'
 group :jekyll_plugins do
